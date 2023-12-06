@@ -1,0 +1,6 @@
+{
+    "mongoDBURI" : "mongodb+srv://rahul08042001:Rahul2929@cluster1.bo6sqwx.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret" : "RahulNikil",
+    "githubClientId" : "b0e6991b97aa5b485807",
+    "githubClientSecret" : "3e504b1f2c44268ac6f7b65433c55df6fd52ba43"
+}
